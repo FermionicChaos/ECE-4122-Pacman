@@ -89,6 +89,10 @@
     <ClCompile Include="src\objects\ECE_Map.cpp" />
     <ClCompile Include="src\objects\ECE_Pacman.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="LICENSE" />
+    <None Include="README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{788a52fd-93bd-42e0-a386-4dbaa99b6d98}</ProjectGuid>
