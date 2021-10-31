@@ -1,7 +1,11 @@
 # ECE 4122 Final Project (Pacman Clone)
+
 Author: Alexander Jossart
+
 Class: ECE 4122
+
 Last Date Modified: 12/01/2020
+
 Description:
 This is the early design for the pacman game
 final project for the class ECE 4122. Default controls
