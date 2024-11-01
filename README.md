@@ -1,6 +1,6 @@
 # ECE 4122 Final Project (Pacman Clone)
 
-Author: Alexander Jossart
+Author:
 
 Class: ECE 4122
 
